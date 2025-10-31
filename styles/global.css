@@ -43,3 +43,6 @@ a:hover{
  
 }
 
+.cor-de-fundo{
+  background-color: var(--surface-color);
+}
